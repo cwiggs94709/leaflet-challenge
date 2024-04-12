@@ -5,4 +5,5 @@ This project focuses on visualizing earthquake data using the USGS GeoJSON feed.
 **Data Markers**: Markers on the map represent earthquakes, scaled in size according to the earthquake's magnitude and colored based on the depth of the earthquake. Larger markers denote higher magnitudes, and darker colors indicate greater depths.
 **Interactive Popups**: Clicking on a marker displays a popup with additional details about the earthquake, providing insights into its magnitude, depth, and exact location.
 **Legend Integration**: A legend is included on the map to help users understand the scale of magnitude and depth represented by the marker sizes and colors.
+
 **Resources**: Google, ChatGPT, In class lectures and activities 
